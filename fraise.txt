@@ -1,5 +1,10 @@
 coucou
+
 salut 
 yes
 fraise
+
+kangourou 
+doudoune
+soleil
 
